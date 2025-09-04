@@ -1,2 +1,2 @@
 # jjambbongtwobowl.github.io
-Jin-Jjambbong Shooter 2
+진짬뽕 Shooter 2
